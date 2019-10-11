@@ -1,0 +1,26 @@
+/* Add any css you want to use for you website here */
+#student_status{
+	visibility:hidden;
+	height:0px;
+}
+
+#undergrad_select{
+	visibility:hidden;
+	height:0px;
+}
+
+#grad_select{
+	visibility:hidden;
+	height:0px;
+}
+
+#player_selector a
+{
+	color: black;
+	text-decoration: none;
+	margin-left: 10%;
+}
+#player_selector a:hover
+{
+	color: gold;
+}
